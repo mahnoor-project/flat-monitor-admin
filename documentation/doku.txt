@@ -1,0 +1,12 @@
+database connection:
+Database postgresql 15
+
+DB_HOST=10.11.28.1
+DB_PORT=5432
+DB_NAME=monitorflats
+DB_USER=monitorflats
+DB_PASS=FlatsShouldBeMon1tored#
+
+
+
+

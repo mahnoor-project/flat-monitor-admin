@@ -1,4 +1,23 @@
-documentatin for installation
+##documentatin for installation
 
-I'll write later
+#####################
+##### github
+##################
+
+
+git config --global user.name "mahnoor-project"
+git config --global user.email "mahnoor@fjv.de"
+
+
+######add to .bashrc
+
+nano .bashrc
+export GITHUB_TOKEN="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"
+source ~/.venv/bin/activate
+
+
+### exit
+
+source .bashrc
+git clone https://$GITHUB_TOKEN@github.com/mahnoor-project/flat-monitor-admin.git
 

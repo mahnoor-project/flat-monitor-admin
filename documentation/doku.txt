@@ -7,6 +7,7 @@ DB_NAME=monitorflats
 DB_USER=monitorflats
 DB_PASS=FlatsShouldBeMon1tored#
 
-
+#maintenance database in project
+flat-monitor
 
 
